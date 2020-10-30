@@ -1,0 +1,295 @@
+{
+    "result": {
+        "retMsg": "Success",
+        "retCode": "000000000"
+    },
+    "total": "16",
+    "channelDetails": [
+        {
+            "code": "M0600637000000050000000006000048",
+            "customFields": [
+                {
+                    "values": [
+                        "#ffffff|0|100|120|1|M0600637000000050000000006000048||30:60|1||1:20200727CODE0574;0:20200727CODE0497|1|1"
+                    ],
+                    "key": "zjChannelOfDetail"
+                }
+            ],
+            "ID": "202812323",
+            "channelNO": "10213",
+            "physicalChannels": [
+                {
+                    "definition": "2",
+                    "ID": "202812324"
+                }
+            ],
+            "picture": {
+                "hcsSlaveAddrs": [],
+                "icons": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202007/20200724/88/20200724070722548l9f.jpg"
+                ],
+                "extensionFields": [],
+                "others": []
+            },
+            "name": "欢笑剧场4K"
+        },
+        {
+            "code": "TIANTAIPUBU",
+            "customFields": [
+                {
+                    "values": [
+                        "1"
+                    ],
+                    "key": "zjChannelVR"
+                }
+            ],
+            "ID": "177143316",
+            "channelNO": "10199",
+            "physicalChannels": [
+                {
+                    "definition": "4",
+                    "ID": "177143317"
+                }
+            ],
+            "picture": {
+                "hcsSlaveAddrs": [],
+                "extensionFields": [],
+                "backgrounds": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202005/20200510/4/20200510094608218dru.jpg",
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202005/20200510/68/20200510094608218faq.jpg"
+                ],
+                "channelBlackWhites": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202005/20200510/7/20200510094608218sfn.jpg",
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202005/20200510/70/20200510094608218p9u.jpg"
+                ],
+                "others": []
+            },
+            "name": "天台大瀑布5G直播"
+        },
+        {
+            "code": "2202428795",
+            "customFields": [],
+            "ID": "209443405",
+            "channelNO": "313",
+            "physicalChannels": [
+                {
+                    "definition": "1",
+                    "ID": "209443406"
+                }
+            ],
+            "picture": {
+                "hcsSlaveAddrs": [],
+                "extensionFields": [],
+                "backgrounds": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202008/20200813/87/20200813031212496mxh.jpg"
+                ],
+                "others": []
+            },
+            "name": "广东卫视高清"
+        },
+        {
+            "code": "ZHIBO20200730",
+            "customFields": [],
+            "ID": "205092381",
+            "channelNO": "10214",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "205092382"
+                }
+            ],
+            "picture": {
+                "hcsSlaveAddrs": [],
+                "extensionFields": [],
+                "backgrounds": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202008/20200807/27/20200807090447602jyl.jpg"
+                ],
+                "channelBlackWhites": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202008/20200807/11/20200807090112610f35.jpg"
+                ],
+                "others": []
+            },
+            "name": "咪咕爱看芒果节直播"
+        },
+        {
+            "code": "shuangshiyi1080",
+            "customFields": [],
+            "ID": "226962574",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "226962575"
+                }
+            ],
+            "name": "1080"
+        },
+        {
+            "code": "shuangshiyi720",
+            "customFields": [],
+            "ID": "226962514",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "226962515"
+                }
+            ],
+            "name": "720"
+        },
+        {
+            "code": "zhibo20201028",
+            "customFields": [],
+            "ID": "226947689",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "226947690"
+                }
+            ],
+            "name": "测试1080"
+        },
+        {
+            "code": "zhibo2020102801",
+            "customFields": [],
+            "ID": "226947902",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "226947903"
+                }
+            ],
+            "name": "测试720"
+        },
+        {
+            "code": "CFPLDJJB2M",
+            "customFields": [],
+            "ID": "214955314",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "214955315"
+                }
+            ],
+            "name": "第十三届金鹰电视艺术节(2M备)"
+        },
+        {
+            "code": "CFPLDJJB4M",
+            "customFields": [],
+            "ID": "214950518",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "214950519"
+                }
+            ],
+            "name": "第十三届金鹰电视艺术节(4M备）"
+        },
+        {
+            "code": "CFPLDJJB8M",
+            "customFields": [],
+            "ID": "214950514",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "214950515"
+                }
+            ],
+            "name": "第十三届金鹰电视艺术节(8M备）"
+        },
+        {
+            "code": "CFPLDJJ8M",
+            "customFields": [],
+            "ID": "215104286",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "215104287"
+                }
+            ],
+            "name": "第十三届金鹰电视艺术节8M"
+        },
+        {
+            "code": "CFPLDJJ4M",
+            "customFields": [],
+            "ID": "215104404",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "215104405"
+                }
+            ],
+            "picture": {
+                "hcsSlaveAddrs": [],
+                "extensionFields": [],
+                "backgrounds": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202010/20201018/26/20201018065407455r7t.jpg"
+                ],
+                "channelBlackWhites": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202010/20201018/43/202010180654074551w1.jpg"
+                ],
+                "others": []
+            },
+            "name": "第十三届金鹰电视艺术节"
+        },
+        {
+            "code": "CFPLDJJ2M",
+            "customFields": [],
+            "ID": "215104285",
+            "channelNO": "9999",
+            "physicalChannels": [
+                {
+                    "definition": "0",
+                    "ID": "215104288"
+                }
+            ],
+            "name": "第十三届金鹰电视艺术节2M"
+        },
+        {
+            "code": "4444444600",
+            "customFields": [],
+            "ID": "103070456",
+            "channelNO": "10112",
+            "physicalChannels": [
+                {
+                    "definition": "4",
+                    "ID": "103070457"
+                }
+            ],
+            "name": "华数播控2"
+        },
+        {
+            "code": "4444444580",
+            "customFields": [],
+            "ID": "101354517",
+            "channelNO": "10060",
+            "physicalChannels": [
+                {
+                    "definition": "1",
+                    "ID": "101354518"
+                }
+            ],
+            "picture": {
+                "hcsSlaveAddrs": [],
+                "extensionFields": [],
+                "backgrounds": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202003/20200304/202003040509433429wt.jpg",
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202003/20200323/20200323061028527xte.jpg"
+                ],
+                "channelBlackWhites": [
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202003/20200304/202003040509433418ix.jpg",
+                    "http://vsc.aikan.miguvideo.com:7129/CPS/images/universal/film/logo/202003/20200323/20200323061028527mgr.jpg"
+                ],
+                "others": []
+            },
+            "name": "浙江省疫情防控工作新闻发布会"
+        }
+    ]
+}
